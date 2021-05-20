@@ -9,23 +9,24 @@ I'm a full stack \<developer/>. I'm passionate about technologies and love learn
 * 👩‍🏫 Love teaching and sharing knowledge
 * 🏞️ Traveling and cycling are two of my favorite hobbies
 
-<br>
-
 ## 🛠️Tech Stack
 
-![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)
-![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)
-![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=4951aa)
-![Spring](http://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=green)
-![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=#F7BD2F)
-![Hibernate](http://img.shields.io/badge/-Hibernate-eee?style=flat-square&logo=hibernate&logoColor=black)
+![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)
+![Spring](http://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)
+![Apache Maven](http://img.shields.io/badge/-Maven-eee?style=flat-square&logo=apachemaven&logoColor=C71A36)
+![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=3776AB)
+![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=777BB4)
+![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=#4479A1)
+![Hibernate](http://img.shields.io/badge/-Hibernate-eee?style=flat-square&logo=hibernate&logoColor=59666C)
 ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=CC6699)
-![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=0088cc)
-![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=0088cc)
+![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat-square&logo=angular&logoColor=DD0031)
-![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)
+![Jira](http://img.shields.io/badge/-Jira-eee?style=flat-square&logo=jira&logoColor=0052CC)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJIDEA-eee?style=flat-square&logo=intellijidea&logoColor=000000)
 
 <!--
 
@@ -41,6 +42,6 @@ I'm a full stack \<developer/>. I'm passionate about technologies and love learn
 
 Thanks for visiting!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=igarciadev/igarciadev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=igarciadeva/igarciadeva)
 
 [website]: https://isaacgarciasanchez.es
