@@ -12,19 +12,22 @@ I'm a full stack \<developer/>. I'm passionate about technologies and love learn
 <br>
 
 ## 🛠️Tech Stack
-- 👩‍💻 Programming Languages
-  
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-    ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
-    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
-    ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 
-<br>
+![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)
+![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)
+![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=4951aa)
+![Spring](http://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=green)
+![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=#F7BD2F)
+![Hibernate](http://img.shields.io/badge/-Hibernate-eee?style=flat-square&logo=hibernate&logoColor=black)
+![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=CC6699)
+![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=0088cc)
+![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=0088cc)
+![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat-square&logo=angular&logoColor=DD0031)
+![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
+![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)
 
 <!--
-**igarciadev/igarciadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -36,6 +39,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=igarciadev/igarciadev) Thanks for visiting!
+Thanks for visiting!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=igarciadev/igarciadev)
 
 [website]: https://isaacgarciasanchez.es
