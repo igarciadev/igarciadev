@@ -31,7 +31,7 @@ I'm a full stack \<developer/>. I'm passionate about technologies and love learn
   ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-eee?style=flat-square&logo=intellij-idea&logoColor=000000)
   ![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
-- 👩‍💻 Others
+- 👩‍💻 Secondary
 
   ![OpenAPI](http://img.shields.io/badge/-OpenAPI-eee?style=flat-square&logo=openapi-initiative&logoColor=6BA539)
   ![Docker](http://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ED)
