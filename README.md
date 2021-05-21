@@ -13,7 +13,7 @@ I'm a full stack \<developer/>. I'm passionate about technologies and love learn
 
 ![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)
 ![Spring](http://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)
-![Apache Maven](http://img.shields.io/badge/-Maven-eee?style=flat-square&logo=apachemaven&logoColor=C71A36)
+![Apache Maven](http://img.shields.io/badge/-Maven-eee?style=flat-square&logo=apache-maven&logoColor=C71A36)
 ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=3776AB)
 ![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=777BB4)
 ![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=#4479A1)
@@ -26,7 +26,13 @@ I'm a full stack \<developer/>. I'm passionate about technologies and love learn
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)
 ![Jira](http://img.shields.io/badge/-Jira-eee?style=flat-square&logo=jira&logoColor=0052CC)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJIDEA-eee?style=flat-square&logo=intellijidea&logoColor=000000)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-eee?style=flat-square&logo=intellij-idea&logoColor=000000)
+![Docker](http://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ED)
+![SVN](http://img.shields.io/badge/-Subversion-eee?style=flat-square&logo=subversion&logoColor=2496ED)
+![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=809CC9)
+![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![OpenAPI](http://img.shields.io/badge/-OpenAPI-eee?style=flat-square&logo=openapi-initiative&logoColor=6BA539)
+![JSON](http://img.shields.io/badge/-JSON-eee?style=flat-square&logo=json&logoColor=000000)
 
 <!--
 
