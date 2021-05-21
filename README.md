@@ -11,28 +11,33 @@ I'm a full stack \<developer/>. I'm passionate about technologies and love learn
 
 ## 🛠️Tech Stack
 
-![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)
-![Spring](http://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)
-![Apache Maven](http://img.shields.io/badge/-Maven-eee?style=flat-square&logo=apache-maven&logoColor=C71A36)
-![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=3776AB)
-![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=777BB4)
-![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=#4479A1)
-![Hibernate](http://img.shields.io/badge/-Hibernate-eee?style=flat-square&logo=hibernate&logoColor=59666C)
-![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=CC6699)
-![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)
-![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat-square&logo=angular&logoColor=DD0031)
-![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)
-![Jira](http://img.shields.io/badge/-Jira-eee?style=flat-square&logo=jira&logoColor=0052CC)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-eee?style=flat-square&logo=intellij-idea&logoColor=000000)
-![Docker](http://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ED)
-![SVN](http://img.shields.io/badge/-Subversion-eee?style=flat-square&logo=subversion&logoColor=2496ED)
-![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=809CC9)
-![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![OpenAPI](http://img.shields.io/badge/-OpenAPI-eee?style=flat-square&logo=openapi-initiative&logoColor=6BA539)
-![JSON](http://img.shields.io/badge/-JSON-eee?style=flat-square&logo=json&logoColor=000000)
+- 👩‍💻 Main
+
+  ![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)
+  ![Spring](http://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)
+  ![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=#4479A1)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)
+  ![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat-square&logo=angular&logoColor=DD0031)
+  ![Hibernate](http://img.shields.io/badge/-Hibernate-eee?style=flat-square&logo=hibernate&logoColor=59666C)
+  ![Apache Maven](http://img.shields.io/badge/-Maven-eee?style=flat-square&logo=apache-maven&logoColor=C71A36)
+  ![JSON](http://img.shields.io/badge/-JSON-eee?style=flat-square&logo=json&logoColor=000000)
+  ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=CC6699)
+  ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=7952B3)
+  ![SVN](http://img.shields.io/badge/-Subversion-eee?style=flat-square&logo=subversion&logoColor=2496ED)
+  ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=809CC9)
+  ![Jira](http://img.shields.io/badge/-Jira-eee?style=flat-square&logo=jira&logoColor=0052CC)
+  ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-eee?style=flat-square&logo=intellij-idea&logoColor=000000)
+  ![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+
+- 👩‍💻 Others
+
+  ![OpenAPI](http://img.shields.io/badge/-OpenAPI-eee?style=flat-square&logo=openapi-initiative&logoColor=6BA539)
+  ![Docker](http://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ED)
+  ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=3776AB)
+  ![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=777BB4)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=F7DF1E)
+  ![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)
 
 <!--
 
